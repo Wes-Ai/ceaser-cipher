@@ -1,3 +1,4 @@
+#Thanks Andrew Marshall https://stackoverflow.com/questions/14551256
 def letter?(lookAhead)
     lookAhead.match?(/[[:alpha:]]/)
 end
